@@ -39,3 +39,4 @@ Sinta-se à vontade para sugerir melhorias! Basta abrir um Pull Request ou Issue
 
 🔗 Licença: MIT 📝
 📩 Contato: mahvalenterj@gmail.com
+![Figure_1](https://github.com/user-attachments/assets/a63149f4-e4f8-494f-a6f7-fac5855d5b39)
